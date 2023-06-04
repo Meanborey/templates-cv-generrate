@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cv{
+  width: 595px;
+  height: 842px;
+}
+.left_cv{
+  width: 210px;
+  height: 789px;
+  margin-top: 30px;
+  margin-left: 1rem;
+  background: #30419D;
+}
+.right_cv{
+  width: 19rem;
+  height: 789px;
+  margin-top: 30px;
+  /* margin-left: 1rem; */
+}
+.portimg{
+  
+  margin-top: 32px;
+  margin-left: 24px;
+  
+}
+img{
+  border-radius: 50%;
+  width: 159px;
+  height: 159px;
+ 
+}
+.shadow-lg{
+  border: 7px solid #FFFFFF;
+}
+body{
+  background-color: rgb(240, 239, 239);
+}
+.texth{
+  color: #27347D;
+  font-size: 12px;
+}
+.skill{
+  font-size: 20px;
+}
+.text_li{
+  font-size: 11px;
+}
